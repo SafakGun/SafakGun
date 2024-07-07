@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1_QW5dzNa1Fop7CuABbzPnNYtz86EtiHT/view?usp=sharing](https://drive.google.com/file/d/1_QW5dzNa1Fop7CuABbzPnNYtz86EtiHT/view?usp=sharing)
+- 👨‍💻 All of my projects are available at https://www.canva.com/design/DAF83xOByN4/x14ojIvOdsbmSiZ1etrVgA/view?utm_content=DAF83xOByN4&utm_campaign=designshare&utm_medium=link&utm_source=editor 
 
 - 💬 Ask me about **Machine Learning, AR-VR development, Unity Development**
 
 - 📫 How to reach me **safak_gun@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QwOO-tpIlMgOe-owZO9LNhgzsMPiH9Nt/view?usp=sharing](https://drive.google.com/file/d/1QwOO-tpIlMgOe-owZO9LNhgzsMPiH9Nt/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1QwOO-tpIlMgOe-owZO9LNhgzsMPiH9Nt/view?usp=sharing
 
 - ⚡ Fun fact **I think everyone is an existentialist although they are not aware of that**
 
