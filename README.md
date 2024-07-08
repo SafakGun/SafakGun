@@ -3,7 +3,7 @@
     <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b9527fxnfffsbvqf6o3064q49cunj4ds1q1h7nsmplz3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" style="width:30%; height:auto;">
   </a>
 </div>
-<h1 align="center">Hi 👋, I'm Safak Gun</h1>
+<h1 align="center">Hi 👋, I'm Şafak Gün</h1>
 <h3 align="center">A passionate fourth year computer engineering student</h3>
 
 <div align="center">
