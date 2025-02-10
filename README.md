@@ -14,17 +14,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safakgun" alt="safakgun" /></a> </p>
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **PyTorch and Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at https://www.canva.com/design/DAF83xOByN4/x14ojIvOdsbmSiZ1etrVgA/view?utm_content=DAF83xOByN4&utm_campaign=designshare&utm_medium=link&utm_source=editor 
-
-- 💬 Ask me about **Machine Learning, AR-VR development, Unity Development**
+- 💬 Ask me about **Machine Learning, AR-VR development, Unity Development, Web-Based Applications**
 
 - 📫 How to reach me **safak_gun@outlook.com**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1QwOO-tpIlMgOe-owZO9LNhgzsMPiH9Nt/view?usp=sharing
-
-- ⚡ Fun fact **I think everyone is an existentialist although they are not aware of that**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
